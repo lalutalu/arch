@@ -1,2 +1,2 @@
 # arch
-xfce, X11, gnome 
+xfce, gnome, base UEFI install script 
